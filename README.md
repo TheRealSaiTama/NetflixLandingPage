@@ -45,19 +45,6 @@ Since this project uses only HTML, CSS, and JavaScript, there are no dependencie
 
 3.  **Open `index.html` in your browser:**  Simply double-click the `index.html` file, or right-click and choose "Open with" your preferred browser. No local server is needed.
 
-## Project Structure
-
-NetflixLandingPage/
-├── css/
-│   └── style.css       # Main stylesheet
-├── img/                # Images used in the project (background.jpg, tab-content-*.png, netflix.png)
-│   └── ...             # You'll need to add your images here!
-├── js/
-│   └── main.js         # JavaScript for tab switching
-├── index.html          # Main HTML file
-└── README.md           # This file
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  (You'll need to create the `LICENSE` file and paste in the MIT License text from my earlier long response.)
