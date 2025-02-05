@@ -51,7 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-[Your Name] - [Add Your Email, optional]
+[Keshav] - [keshavsde@gmail.com, keshavjhagithub@gmail.com]
 
 GitHub: [TheRealSaiTama](https://github.com/TheRealSaiTama)
 
